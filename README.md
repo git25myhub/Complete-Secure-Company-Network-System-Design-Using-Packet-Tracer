@@ -1,5 +1,11 @@
 # Enterprise Campus Network — Cisco Packet Tracer Lab
+<p align="center">
+  <img src="screenshots/topology.png" alt="Complete Secure Company Network Design Topology" width="100%">
+</p>
 
+<p align="center">
+  <b>A structured, secure, and scalable Complete Secure Company network designed and implemented using Cisco Packet Tracer.</b>
+</p>
 ## 1. Project Overview
 
 This project is a full enterprise-style Cisco Packet Tracer network designed to demonstrate the integration of:
@@ -35,15 +41,9 @@ The topology diagram is stored in the project screenshots directory.
 
 Recommended project structure:
 
-```text
-Cisco-Packet-Tracer-Enterprise-Lab/
-│
-├── screenshots/
-│   └── topology.png
-│
-├── README.md
-└── *.pkt
-```
+<p align="center">
+  <img src="screenshots/topology.png" alt="Complete Secure Company Network Design Topology" width="100%">
+</p>
 
 The network is built around two multilayer switches providing redundant gateway services. Access switches connect users, voice devices, wireless infrastructure, and servers. Two firewalls provide redundant paths toward the external/edge routers.
 
